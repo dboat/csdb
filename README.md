@@ -5,7 +5,7 @@ CSDB
 
 * [Sign up for a Github account](https://github.com/signup/free)
 * [Set up Git](https://help.github.com/articles/set-up-git)
-
+* [How to deal with "Permission denied (publickey)"](https://help.github.com/articles/generating-ssh-keys)
 # Setting up your environment
 
 ## Install Git
