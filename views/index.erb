@@ -93,6 +93,7 @@
         </div>
         <p class="lead center">Meet the programmers of UCLA Dragon Boat</p>
         <div class="row span7">
+          <img src="http://i.imgur.com/60z2Bd1.jpg" class="img-polaroid carson" height="140" width="140">
           <img src="http://i.imgur.com/3n8vk5b.jpg" class="img-polaroid example" height="140" width="140">
           <img src="http://i.imgur.com/nDrnrKK.jpg" class="img-polaroid" height="140" width="140">
           <img src="http://i.imgur.com/1EIIi5i.jpg" class="img-polaroid" height="140" width="140">
@@ -127,11 +128,17 @@
     <script src="js/bootstrap.js"></script>
     <script>
     $(function() {
+      // TODO: replace hardcoded data with data in /programmers.json
       var options = {
         title: "David Mao Yang",
         content: "VMWare",
       };
       $(".example").popover(options);
+      var carson_options = {
+        title: "Carson Tang",
+        content: "M$",
+      };
+      $(".carson").popover(carson_options);
     });
     </script>
   </body>

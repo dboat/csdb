@@ -9,6 +9,7 @@ end
 get '/programmers.json' do
   content_type :json
   { :users => [
+    {:title => "Carson", :content => "Homestead"},
     {:title => "David", :content => "Redwood"},
     {:title => "Robert", :content => "Senior"},
     {:title => "David", :content => "Oakland"},
