@@ -2,10 +2,6 @@ CSDB
 =========
 
 # General notes
-## Pulling code
-    $ git fetch
-    $ git rebase origin
-
 # Setting up your environment
 
 ## Install Git
@@ -16,6 +12,7 @@ CSDB
 ## Set up directory/folder
 * [Open up Terminal (Mac OS X)](http://www.coderanch.com/t/111327/Mac/open-terminal-window-mac)
 * [Open up Terminal (Ubuntu)](https://help.ubuntu.com/community/UsingTheTerminal)
+
 1) Change to home directory
 
     $ cd ~
