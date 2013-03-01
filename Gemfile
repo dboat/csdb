@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
+gem 'json'
 gem 'rack'
 gem 'sinatra'
 gem 'thin'
