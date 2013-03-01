@@ -44,9 +44,11 @@ CSDB
 5) [Install bundle.](http://gembundler.com)
 
 6) Install all the gems (gems contain Ruby code written by other people. They put this code in a package called a "gem". A "gemset" is simply a collection of different gems.)
+    
     $ bundle install
 
 7) Run the application!
+    
     $ ruby hello_world.rb
 
 8) Open up your browser and go to http://localhost:4567 
