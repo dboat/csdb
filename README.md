@@ -2,6 +2,10 @@ CSDB
 =========
 
 # General notes
+
+* [Sign up for a Github account](https://github.com/signup/free)
+* [Set up Git](https://help.github.com/articles/set-up-git)
+
 # Setting up your environment
 
 ## Install Git
