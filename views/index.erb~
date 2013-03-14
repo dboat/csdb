@@ -95,17 +95,17 @@
           <img src="http://i.imgur.com/60z2Bd1.jpg" class="img-polaroid carson" height="140" width="140">
           <img src="http://i.imgur.com/3n8vk5b.jpg" class="img-polaroid example" height="140" width="140">
           <img src="http://i.imgur.com/nDrnrKK.jpg" class="img-polaroid robert" height="140" width="140">
-          <img src="http://i.imgur.com/1EIIi5i.jpg" class="img-polaroid voong" height="140" width="140">
-          <img src="http://i.imgur.com/sjfpWdV.jpg" class="img-polaroid kyi" height="140" width="140">
-          <img src="http://i.imgur.com/7qpeLUP.jpg" class="img-polaroid arun" height="140" width="140">
-          <img src="http://i.imgur.com/N2s42ak.jpg" class="img-polaroid christine" height="140" width="140">
-          <img src="http://i.imgur.com/2Tlf9RO.jpg" class="img-polaroid menglin" height="140" width="140">
-          <img src="http://i.imgur.com/uLa4kkB.jpg" class="img-polaroid larry" height="140" width="140">
-          <img src="http://i.imgur.com/QHtLziR.jpg" class="img-polaroid hao" height="140" width="140">
-          <img src="http://i.imgur.com/hsHZlUg.jpg" class="img-polaroid russell" height="140" width="140">
-          <img src="http://i.imgur.com/5DvhhXL.jpg" class="img-polaroid daniel" height="140" width="140">
-          <img src="http://i.imgur.com/788anMh.jpg" class="img-polaroid aren" height="140" width="140">
-          <img src="http://i.imgur.com/B8Lo9NB.jpg" class="img-polaroid aaron" height="140" width="140">
+          <img src="http://i.imgur.com/1EIIi5i.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/sjfpWdV.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/7qpeLUP.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/N2s42ak.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/2Tlf9RO.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/uLa4kkB.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/QHtLziR.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/hsHZlUg.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/5DvhhXL.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/788anMh.jpg" class="img-polaroid" height="140" width="140">
+          <img src="http://i.imgur.com/B8Lo9NB.jpg" class="img-polaroid" height="140" width="140">
         </div>
       </div>
 
@@ -143,16 +143,6 @@
         content: "Aspiring Developer",
       };
       $(".robert").popover(robert_options);
-	var voong_options = {
-        title: "David Voong",
-        content: "Deadlifts a fuckton",
-      };
-      $(".voong").popover(voong_options);
-	var arun_options = {
-        title: "Arun Joseph",
-        content: "Indian",
-      };
-      $(".arun").popover(arun_options);
     });
     </script>
   </body>
